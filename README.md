@@ -5,7 +5,7 @@
  - 매주 수요일 9시! 
 
 ### ⭐ 일정
- < 모임 이전 >
+  <<<<<<<<<<< 모임 이전 >>>>>>>>>>>>>>>> <br>
  - 문제 풀기 ( 최소 2개 이상, 자유롭게 선택 ) <br>
  - Github 에 풀이 Commit <br>
  - 다른 사람 코드에 Review 남기기 <br>
@@ -21,8 +21,8 @@
 
 
 <br>
-아래 블로그 참고해서 각자 이름/닉네임으로 branch 만드셔서 사용하시면 됩니다.
+아래 블로그 참고해서 각자 이름/닉네임으로 branch 만드셔서 사용하시면 됩니다. <br>
 https://epicarts.tistory.com/98
 <br>
-<참고 사이트>
-https://github.com/epicarts/algorithm-study
+<참고 사이트><br>
+https://github.com/epicarts/algorithm-study <br><br>
