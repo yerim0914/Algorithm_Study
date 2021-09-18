@@ -25,5 +25,8 @@
 
 > 아래 블로그 참고해서 각자 이름/닉네임으로 branch 만드셔서 사용하시면 됩니다. <br>
 https://epicarts.tistory.com/98
-<참고 사이트><br>
+
+<br>
+
+> - 참고 사이트 <br>
 https://github.com/epicarts/algorithm-study <br><br>
