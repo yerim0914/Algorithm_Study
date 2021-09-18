@@ -28,5 +28,5 @@ https://epicarts.tistory.com/98
 
 <br>
 
-> - 참고 사이트 <br>
+ - 참고 사이트 <br>
 https://github.com/epicarts/algorithm-study <br><br>
