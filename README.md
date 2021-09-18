@@ -21,7 +21,7 @@
 
 <br>
 <br>
-> 아래 블로그 참고해서 각자 이름/닉네임으로 branch 만드셔서 사용하시면 됩니다. <br>
+아래 블로그 참고해서 각자 이름/닉네임으로 branch 만드셔서 사용하시면 됩니다. <br>
 https://epicarts.tistory.com/98
 <br>
 <참고 사이트><br>
