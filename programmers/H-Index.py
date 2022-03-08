@@ -14,7 +14,6 @@ def solution(citations):
         #         answer.append(i)
         # else :
         #     index += 1
-
     if len(answer) == 0:
         answer = 0
     else:
